@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Open Source Best Practices
 
-You can use the [editor on GitHub](https://github.com/imabp/bestoss/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a one-stop guide for all the newcomers in Open Source to follow best practices for making open source contributions great again.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Read Project Readme
 
-### Markdown
+It may sound boring, but you have to get the understanding of the project's mission and workflow, by going through readme given.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Read Contributing Guide.
 
-```markdown
-Syntax highlighted code block
+Once you find the great project up, try to find the contributing guidelines, in the readme, and setup the project locally, if required.
 
-# Header 1
-## Header 2
-### Header 3
+### Check on to issues.
 
-- Bulleted
-- List
+Once you are all done with above steps, make sure you check on to existing issues, and also at the same time, do ask in the comments who are solving the issue and the status of the solution. If the issue is assigned to someone, politely ask, the status and how are they doing it, and if they need help or not. 
 
-1. Numbered
-2. List
+### Be Respectful 
+Software Engineers around the globe from Google to Microsoft, loves to contribute to open source because of its potential in creating the world a better place. So you should be respectful to everyone in any situation. 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imabp/bestoss/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
